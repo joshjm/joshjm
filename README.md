@@ -1,4 +1,5 @@
 ### Hi there 👋
+Check out my portfolio page/personal site at joshjm.github.io
 - 🔭 I’m currently working on ... My General Assemblies software engineering course, and volunteering time to build a COVID dashboard for a reserach team at The University of Queensland
 - I am also working on a free replacement for couchsurfing as part of a team. 
 - My passion project of late has been building and getting up to speed with my lily58 custom split keyboard
