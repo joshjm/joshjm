@@ -1,10 +1,6 @@
 ### Hi there 👋
 Check out my [portfolio page/personal site](https://joshjm.github.io/#/)
-- 🔭 I’m currently working on ... My General Assemblies software engineering course, and volunteering time to build a COVID dashboard for a reserach team at The University of Queensland
-- I am also working on a free replacement for couchsurfing as part of a team. 
-- My passion project of late has been building and getting up to speed with my lily58 custom split keyboard
-- 🌱 I’m currently learning ... Vue and plotly. (along with TF, pytorch, react, ORMs, and many others!)
-- 👯 I’m looking to collaborate on ... Cool projects that scratch my scientific itch.
+- 🔭 I’m currently working on ... Building a stack for the SafeBlues.org research team
 
 
 
